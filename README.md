@@ -21,7 +21,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - VS Code
 - Postman
 
-## <img align="center" src="https://img.icons8.com/color/38/000000/java.png"/> BackEnd End 
+## <img align="center" src="https://img.icons8.com/color/38/000000/java.png"/> Back End  
  Aplicação Api construida com Java, Springboot e MySQL. Consumindo Api consultando o banco de dados e enviando informações para o cliente com historico da pesquisa
 
 
